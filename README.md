@@ -28,13 +28,13 @@ Make sure you have the following installed:
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/yourusername/tic-tac-toe-react.git
+    git clone https://github.com/parhladSingh/Tic-Tac-Toe.git
     ```
 
 2. Navigate to the project directory:
 
     ```bash
-    cd tic-tac-toe-react
+    cd Tic-Tac-Toe
     ```
 
 3. Install the dependencies:
@@ -49,4 +49,5 @@ Start the development server:
 
 ```bash
 npm start
+```
 
