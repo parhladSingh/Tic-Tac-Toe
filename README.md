@@ -9,6 +9,8 @@ A classic Tic-Tac-Toe game built using React, where two players can compete on a
 - **Dynamic UI Updates:** Real-time updates as players make their moves.
 - **Visual Enhancements:** Winning combination is highlighted with a strike-through, and game-over scenarios are indicated with a dotted border.
 
+  live link - https://tic-tac-toe-lac-seven.vercel.app/
+
 ## Technologies Used
 
 - **React:** A JavaScript library for building user interfaces.
