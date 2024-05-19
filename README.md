@@ -11,7 +11,7 @@ A classic Tic-Tac-Toe game built using React, where two players can compete on a
 
 - ## Quick Demo
 
-- *Live link* - https://tic-tac-toe-lac-seven.vercel.app/
+- *Live link* - https://parhlad-singh-tic-tac-toe.vercel.app/
   
 
 https://github.com/parhladSingh/Tic-Tac-Toe/assets/142223673/677a7212-c4be-4de0-a142-41409b20c883
